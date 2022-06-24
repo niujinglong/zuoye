@@ -37,12 +37,12 @@ namespace RbacRepository
             return list.ToList();
         }
 
-        public virtual shuju<T> GetFen(TiaoJian j)
+        public virtual shuju GetFen(TiaoJian j)
         {
-            var list = GetAll();
+            var list = db.Role.AsQueryable();
             var to = list.Count();
             var data = list.Skip((j.pageindex - 1) * j.pagesize).Take(j.pagesize);
-            shuju<T> s = new shuju<T>();
+            shuju s = new shuju();
             s.totacount = to;
             s.shu = data.ToList();
             return s;

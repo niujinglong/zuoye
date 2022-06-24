@@ -14,7 +14,7 @@ namespace RbacRepository
         int Add(T list);
         int Del(TKey k);
         List<T> GetAll();
-        shuju<T> GetFen(TiaoJian j);
+        shuju GetFen(TiaoJian j);
         T Get(int id);
         int Upd(T t);
     }

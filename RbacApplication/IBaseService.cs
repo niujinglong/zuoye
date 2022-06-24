@@ -16,6 +16,6 @@ namespace RbacApplication
         int Delete(int id);
         TDto GetById(int id);
         List<TDto> GetAll();
-        shuju<TDto> GetFen(TiaoJian j);
+        shuju GetFen(TiaoJian j);
     }
 }

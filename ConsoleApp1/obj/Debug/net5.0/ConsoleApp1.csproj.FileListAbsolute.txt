@@ -1,0 +1,16 @@
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\专高六\课堂代码\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll

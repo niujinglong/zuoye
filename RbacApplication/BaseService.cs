@@ -37,6 +37,8 @@ namespace RbacApplication
             return mapper.Map<List<TDto>>(baseService.GetAll());
         }
 
+        
+
         public virtual shuju GetFen(TiaoJian j)
         {
             return mapper.Map<shuju>(baseService.GetFen(j));

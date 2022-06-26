@@ -168,7 +168,6 @@ D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Micro
 D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\NPOI.OOXML.dll
 D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
 D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
@@ -220,3 +219,9 @@ D:\专高六\课堂代码\WebApplication1\WebApplication1\obj\Debug\net5.0\refin
 D:\专高六\课堂代码\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
 D:\专高六\课堂代码\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
 D:\专高六\课堂代码\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\IdentityModel.dll
+D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Scrutor.dll
+D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\专高六\课堂代码\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,6 +17,7 @@ namespace RbacApplication
         int Delete(int id);
         TDto GetById(int id);
         List<TDto> GetAll();
+        
         shuju GetFen(TiaoJian j);
     }
 }

@@ -15,34 +15,56 @@ namespace WebApplication1.Controllers
             this.adminService = adminService;
         }
 
+        /// <summary>
+        /// 注册
+        /// </summary>
+        /// <param name="dto"></param>
+        /// <returns></returns>
         [HttpPost]
-        public IActionResult Add(AdminDto dto)
+        public IActionResult Register(AdminDto dto)
         {
-            return Ok(adminService.Add(dto));
+            return Ok(adminService.Register(dto));
         }
 
-        [HttpGet]
-        public IActionResult Show()
+        /// <summary>
+        /// 登录
+        /// </summary>
+        /// <param name="dto"></param>
+        /// <returns></returns>
+        [HttpPost]
+        public IActionResult Login(LoginDto dto)
         {
-            return new JsonResult(adminService.GetAll());
+            return Ok(adminService.Login(dto));
         }
 
-        [HttpGet]
-        public IActionResult GeiId(int id)
-        {
-            return new JsonResult(adminService.GetById(id));
-        }
+        //[HttpPost]
+        //public IActionResult Add(AdminDto dto)
+        //{
+        //    return Ok(adminService.Add(dto));
+        //}
 
-        [HttpDelete]
-        public IActionResult Del(int id)
-        {
-            return Ok(adminService.Delete(id));
-        }
+        //[HttpGet]
+        //public IActionResult Show()
+        //{
+        //    return new JsonResult(adminService.GetAll());
+        //}
 
-        [HttpPut]
-        public IActionResult Upd(AdminDto r)
-        {
-            return Ok(adminService.Update(r));
-        }
+        //[HttpGet]
+        //public IActionResult GeiId(int id)
+        //{
+        //    return new JsonResult(adminService.GetById(id));
+        //}
+
+        //[HttpDelete]
+        //public IActionResult Del(int id)
+        //{
+        //    return Ok(adminService.Delete(id));
+        //}
+
+        //[HttpPut]
+        //public IActionResult Upd(AdminDto r)
+        //{
+        //    return Ok(adminService.Update(r));
+        //}
     }
 }

@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Rbac.Entity;
+using RbacApplication.Admin;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace RbacApplication
         public AutomappperConfig()
         { 
             CreateMap<RoleDto,Rbac.Entity.Role>().ReverseMap();
+            CreateMap<AdminDto,Rbac.Entity.Admin>().ReverseMap();
 
         }
     }

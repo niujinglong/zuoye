@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PLAB0TQOn1BreDkGzd8r5WtPvyfksKxc6NYFgnIWWshSUtviX0526GXp+y9Nb30muWyvgcMvebp6lwTSS/Od5g==",
+  "dgSpecHash": "S2Rk+rCbzhAQzHup4Uqr53lJCRDebbcmC4CmDuZKjaofhaSrhcBsJXBnUS5qEE6f6M4FWR6GdcN68kzSLeSUIw==",
   "success": true,
   "projectFilePath": "D:\\专高六\\课堂代码\\WebApplication1\\RbacApplication\\RbacApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\niujinglong\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\niujinglong\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\niujinglong\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\niujinglong\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\niujinglong\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\niujinglong\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using ClassLibraryEF;
@@ -35,6 +36,10 @@ namespace RbacRepository
         {
             var list = db.Set<T>().AsQueryable();
             return list.ToList();
+        }
+        public virtual T GetEntity(Expression<Func<T, bool>> predicate)
+        {
+            return db.Set<T>().Where(predicate).FirstOrDefault();
         }
 
         public virtual shuju GetFen(TiaoJian j)
